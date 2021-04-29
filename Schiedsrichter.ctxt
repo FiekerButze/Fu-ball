@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Schiedsrichter
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Schiedsrichter.\r\n\ \r\n\ Leon\r\n\ 0.1\r\n
+comment1.params=
+comment1.target=Schiedsrichter()
+comment2.params=
+comment2.target=java.lang.String\ muenzenWurf()
+comment3.params=
+comment3.target=void\ pfeifen()
+comment4.params=farbe
+comment4.target=void\ karteZeigen(java.lang.String)
+comment5.params=name\ farbe
+comment5.target=void\ nameAufschreiben(java.lang.String,\ java.lang.String)
+numComments=6

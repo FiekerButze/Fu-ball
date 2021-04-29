@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Karte
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Karte.\r\n\ \r\n\ Leon\r\n\ 0.1\r\n
+comment1.params=farbe
+comment1.target=Karte(java.lang.String)
+comment2.params=name
+comment2.target=void\ neuerName(java.lang.String)
+comment3.params=position
+comment3.target=java.lang.String\ gibName(int)
+comment4.params=
+comment4.target=void\ gibAlleNamenAus()
+comment5.params=
+comment5.target=int\ gibNamenAnzahl()
+comment6.params=
+comment6.target=java.lang.String[]\ gibNamenAlle()
+numComments=7
